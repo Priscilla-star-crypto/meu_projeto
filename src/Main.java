@@ -12,6 +12,7 @@ public class Main {
         Filmes f1 = new Filmes("Gladiador 2" , "ação", 60, 2024 , 10);
         f1.status();
         System.out.println("-------Caracteristicas-------");
+        System.out.println("-------Caracteristicas-------");
         f1.metragem();
         f1.nnota();
 
