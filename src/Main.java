@@ -13,6 +13,7 @@ public class Main {
         f1.status();
         System.out.println("-------Caracteristicas-------");
         System.out.println("-------Caracteristicas-------");
+        System.out.println("-------Caracteristicas-------");
         f1.metragem();
         f1.nnota();
 
