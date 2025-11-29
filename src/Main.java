@@ -14,6 +14,8 @@ public class Main {
         System.out.println("-------Caracteristicas-------");
         System.out.println("-------Caracteristicas-------");
         System.out.println("-------Caracteristicas-------");
+        System.out.println("-------Caracteristicas-------");
+        System.out.println("-------Caracteristicas-------");
         f1.metragem();
         f1.nnota();
 
